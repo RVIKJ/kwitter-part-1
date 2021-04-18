@@ -1,0 +1,15 @@
+#login_page
+{
+border: 3px;
+border-color: black;
+background-color: aquamarine;
+}
+body
+{
+    text-align: center;
+}
+.img
+{
+    height: 50px;
+    width: 50px;
+}
